@@ -1,6 +1,6 @@
 # Aplicación Simon Dice
 
----
+
 ## 📝 Descrición do Proxecto
 
 A aplicación baséase no patrón MVVM para xestionar de xeito eficiente a lóxica e os datos da UI. Emprega **corutinas** para realizar operacións asíncronas, garantindo unha experiencia fluída para o usuario. Este proxecto non só é unha proba de memoria visual e auditiva, senón tamén un exemplo práctico do uso de tecnoloxías modernas en Android.
