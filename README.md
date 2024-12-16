@@ -1,5 +1,6 @@
 # Aplicación Simon Dice
-###### *Debido a executar o comando  `git push origin main --force` para subir o proxecto a GitHub, o historial de commits orixinal foi eliminado. (non sabia que podía pasar isto)*
+> [!CAUTION]
+> Debido a executar o comando  `git push origin main --force` para subir o proxecto a GitHub, o historial de commits orixinal foi eliminado. (non sabia que podía pasar isto)
 
 ## 📝 Descrición do Proxecto
 
